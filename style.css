@@ -1,0 +1,327 @@
+.clear-fix{
+    clear: both;
+}
+body{
+    margin: 0px;
+}
+.container{
+    display: inline-block;
+    width: 100%;
+    height: 100vh;
+    background-image:url(drew-coffman-1872.jpg);
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.hader{
+    width: 12%;
+    display: inline-block;
+    padding: 20px 0px 0px 140px;
+    position: fixed;
+}
+.hader img{
+    width: 100%;
+}
+.nav{
+    display: inline-block;
+    padding: 15px 15px 0px 15px;
+    color: white;
+    font-size: 110%;
+    
+}
+.bar{
+    display: inline-block;
+    float: right;
+    margin-right: 140px;
+    position: fixed;
+    right: 0px;
+}
+.centar{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+}
+.centar p{
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    color: white;
+    line-height: 60px;
+}
+
+.centar span{
+    font-family: "Alegreya", serif;
+    font-size: 76px;
+    color: white;
+    display: block;
+    padding: 15px 0px;
+}
+.centar button#button-one{
+    width: 131px;
+    height: 55px;
+    background-color: #8e7754;
+    color: aliceblue;
+    border-color: transparent;
+    border-radius: 10px;
+}
+.centar button#button-two{
+    width: 131px;
+    height: 55px;
+    border-style: solid;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    border-radius: 10px;
+}
+.partTwo {
+    
+}
+.first{
+    width: 37%;
+    float: left;
+    padding: 100px 50px 100px 150px;
+}
+.first img{
+    width: 100%;
+}
+.second{
+    width: 40%;
+    float: left;
+    font-family: "Alegreya Sans", sans-serif;
+    padding: 150px 0px 150px 50px;
+}
+.childone{
+    font-family: "Alegreya", serif;
+    font-size: 32px;
+    font-weight: 300;
+    color: rgb(48, 48, 48);
+}
+.childTwo{
+    color: rgb(104, 104, 104);
+    font-size: 110%;
+    line-height: 30px;
+    font-weight: 400;
+}
+.childThree ul{
+    font-size: 110%;
+    list-style: none;
+    line-height: 30px;
+    line-height: 60px;
+    padding-left: 0px;
+}
+.rr img{
+    vertical-align: middle;
+    background-color:white ;
+    display: inline-block;
+    width: 45px;
+    border-style: solid;
+    border-color:rgb(200, 198, 198);
+    border-width: 0.2px;
+}
+
+.partThree{
+    background-color:#f8f8f8;
+}
+.childFoure {
+    width: 37%;
+    display: inline-block;
+    float: right;
+    padding: 90px 150px 40px 25px;
+}
+.childFoure img{
+    width: 100%;
+}
+.dad{
+    width: 37%;
+    font-family: "Alegreya", serif;
+    padding: 200px 50px 200px 150px;
+    float: left;
+}
+.childFive{
+        font-family: "Alegreya", serif;
+        font-size: 32px;
+        font-weight: 300;
+        color: rgb(48, 48, 48);
+}
+.childSix,.childSeven {
+    color: rgb(104, 104, 104);
+    font-size: 110%;
+    line-height: 30px;
+    font-weight: 400;
+}
+.uncle{
+    text-align: center;
+    font-family: "Alegreya", serif;
+    font-size: 17px;
+    padding-top: 90px;
+    color: rgb(104, 104, 104);
+    font-weight: 400;
+}
+.uncle span{
+    font-size: 30px;
+    color: rgb(48, 48, 48);
+}
+.uncleOne,.uncleOTwo,.uncleThree{
+    width: 25%;
+    text-align: center;
+    font-family: "Alegreya", serif;
+    font-size: 17px;
+    float: left;
+    color: rgb(104, 104, 104);
+    
+}
+.uncleOne span,.uncleOTwo span,.uncleThree span{
+    font-size: 22px;
+    color: rgb(48, 48, 48);
+}
+.uncleImage{
+    width: 100%;
+}
+.uncleOne{
+    padding: 50px 20px 50px 149px;
+}
+.uncleOTwo{
+    padding:50px 20px 50px ;
+}
+.uncleThree{
+    padding: 50px 149px 50px 20px ;
+}
+.partFive{
+    background-color: #f8f8f8;
+}
+
+.cousinOne{
+    width: 36%;
+    display: inline-block;
+    float: left;
+    padding: 90px 0px 40px 150px;
+    line-height: 30px;
+}
+#dd {
+    list-style: none;
+    padding-left: 0px;
+}
+
+#dd img {
+    width: 40px;
+    background-color: #8e7754;
+    vertical-align: middle;
+}
+.cousinOne #aa{
+    font-size: 32px;
+    color: rgb(48, 48, 48);
+    font-family: "Alegreya", serif;
+}
+.cousinOne #bb{
+    font-size: 17px;
+    color: rgb(104, 104, 104);
+    font-family: "Alegreya Sans", sans-serif;
+}
+.cousinOne #cc{
+    padding-top: 20px;
+    font-family: "Alegreya Sans", sans-serif;
+    color: rgb(104, 104, 104);
+    font-size: 17px;
+}
+.cousinOne #dd{
+    font-family: "Alegreya Sans", sans-serif;
+    line-height: 60px;
+    font-size: 17px;
+    color: rgb(104, 104, 104);
+}
+.cousinTwo{
+    width: 37%;
+    display: inline-block;
+    float: right;
+    padding: 90px 150px 90px 25px;
+}
+.cousinTwo img{
+    width: 100%;
+}
+.partSix{
+    background-color: rgb(64, 61, 56);
+}
+.ee,.hh,.jj{
+    font-size: 18px;
+    font-family: "Alegreya", serif;
+    color: rgb(255, 255, 255);
+}
+.ff,.gg{
+    line-height: 30px;
+    font-weight: 400;
+}
+.ii,.kk{
+    line-height: 30px;
+    font-weight: 400;
+}
+hr{
+    border: 1px solid rgb(150, 150, 150);
+    opacity: 0.2;
+}
+.ff,.gg,.ii,.kk{
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 16px;
+    color: rgb(150, 150, 150);
+    font-weight: 400;
+}
+.boss{
+    width: 20%;
+    display: inline-block;
+    float: left;
+    padding: 50px 5px 50px 150px;
+}
+.bossOne{
+    width: 20%;
+    display: inline-block;
+    float: left;
+    padding: 50px 5px 50px 10px;
+}
+.bossOne ul{
+    list-style-type:none;
+    padding-left: 0px;
+}
+.bossTwo ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+.bossTwo{
+    background-image: url(contact-details-map.png);
+    background-repeat: no-repeat;
+    background-position: bottom 80px right ;
+    width: 20%;
+    display: inline-block;
+    float: left;
+    padding: 50px 5px 50px 10px;
+}
+
+.finalPart{
+    background-color:rgb(53, 51, 48);
+    text-align: center;
+    color:rgb(121, 121, 121);
+    line-height: 60px;
+    font-family: "Alegreya Sans", sans-serif;
+    
+}
+.finalPart ul{
+    list-style: none;
+    width: 95%;
+}
+.finalPart .bak{
+    padding-top: 70px;
+}
+
+li img{
+    width: 3%;
+    display: inline-block;
+    background-color: rgb(64, 61, 56);
+    border-radius: 50px;
+    margin-right: 8px;
+}
+
+
+
+
+
+
+
